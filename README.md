@@ -4,5 +4,5 @@
 
 <p align="center">
   <img src="F1 score.png" width="350" title="hover text">
-  <img src="prediction on test sentence.png" width="400" height="150" alt="accessibility text">
+  <img src="prediction on test sentence.png" width="450" height="150" alt="accessibility text">
 </p>
